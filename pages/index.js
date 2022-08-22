@@ -23,8 +23,8 @@ export default function Home({ posts }) {
       <div className="space-y-2 pt-6 pb-8 md:space-y-5">
         <Image
           src={siteMetadata.siteHeroImage}
-          width={970}
-          height={621}
+          width={1024}
+          height={656}
           alt={siteMetadata.siteHeroImageAlt}
         />
         <p className="pt-6 pb-8">
