@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'address@mucliweb.net',
   github: 'https://github.com/nucliweb',
   twitter: 'https://twitter.com/nucliweb',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  facebook: 'https://www.facebook.com/nucliweb',
+  youtube: 'https://youtube.com/c/JoanLeon',
+  linkedin: 'https://www.linkedin.com/in/joanleon/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
