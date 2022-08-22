@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Web Performance Workshop Site',
   author: 'Joan Leon',
   headerTitle: 'Web Performance Workshop Site',
-  description: 'A blog created with Next.js and Tailwind.css to test Web Peformance',
+  description: 'A blog created with Next.js and Tailwind.css to test Web Performance',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://web-performance-workshop-site.vercel.app',
