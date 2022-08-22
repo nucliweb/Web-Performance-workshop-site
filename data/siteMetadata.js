@@ -8,6 +8,8 @@ const siteMetadata = {
   siteUrl: 'https://web-performance-workshop-site.vercel.app',
   siteRepo: 'https://github.com/nucliweb/Web-Performance-workshop-site',
   siteLogo: '/static/images/logo.png',
+  siteHeroImage: '/static/images/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg',
+  siteHeroImageAlt: 'Web Performance Workshop Site Hero Image',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@mucliweb.net',
