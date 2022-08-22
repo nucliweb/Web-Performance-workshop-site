@@ -27,7 +27,7 @@ export default function Home({ posts }) {
           height={656}
           alt={siteMetadata.siteHeroImageAlt}
         />
-        <p className="pt-6 pb-8">
+        <p className="pb-8">
           Photo by{' '}
           <a href="https://unsplash.com/@ffstop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
             Fotis Fotopoulos
